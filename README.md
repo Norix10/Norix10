@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey there 👋 I'm **Norix** (**Illia**)!
 
-<!--
-**Norix10/Norix10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Software Engineer based in Rivne, Ukraine.
 
-Here are some ideas to get you started:
+I mostly work on backend systems - Python, FastAPI, SQL, and database migrations with Alembic and SQLAlchemy. I am actively exploring Al solutions and API design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a fresh profile where I'm building projects from scratch, experimenting, and sharing my journey.
+
+## 🛠️ Tools & Tech
+
+  - 🛠️ Python, FastAPI, SQL, Docker, PyTest, Celery, Redis
+  - 💾 SQLAlchemy, Alembic, PostgreSQL (Neontech)
+  - 🤖 AI APIs & Integrations
+  - 🖥️ Linux (Fedora KDE Plasma), Windows 11
+
+## A Bit About Me
+
+🏔️ Mountain Dream: My goal is to hike the high passes of Europe, with a dream to one day summit the Matterhorn.
+
+🌍 Adventure & Exploration: I have a deep love for traveling, particularly in Europe, finding hidden paths and local cultures.
+
+🎥 Otaku Soul: I'm a big fan of anime and manga; always exploring new stories and discussing favorites like JJBA, Vinland Saga and others.
+
