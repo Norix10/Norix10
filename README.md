@@ -9,7 +9,7 @@ This is a fresh profile where I'm building projects from scratch, experimenting,
 ## 🛠️ Tools & Tech
 
   - 🛠️ Python, FastAPI, SQL, Docker, PyTest, Celery, Redis
-  - 💾 SQLAlchemy, Alembic, PostgreSQL (Neontech)
+  - 💾 SQLAlchemy, Alembic, PostgreSQL, AWS
   - 🤖 AI APIs & Integrations
   - 🖥️ Linux (Fedora KDE Plasma), Windows 11
 
